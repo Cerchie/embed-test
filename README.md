@@ -1,4 +1,4 @@
 # embed-test
 testing embed functionality for https://see-my-repo.netlify.app/
 
-<img src="blob:http://127.0.0.1:5502/95fae3c0-3536-4e7d-b0ca-a62fc87ee542" alt="Chart" />
+<img src="blob:https://see-my-repo.netlify.app/323ca442-d016-482e-8084-7062b4ff24cf" alt="Chart" />
